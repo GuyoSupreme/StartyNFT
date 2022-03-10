@@ -1,0 +1,12 @@
+.bg-custom {
+  background-image: url(../utils/bannersite.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.starty-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

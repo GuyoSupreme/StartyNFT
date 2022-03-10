@@ -1,0 +1,9 @@
+.connectWalletButton {
+  background-color: #0D051A;
+  color: #41CFD9;
+  height: 50px;
+  width: 200px;
+  font-family: 'Rowdies', cursive;
+  border: none;
+  border-radius: 7px;
+}

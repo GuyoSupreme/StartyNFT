@@ -1,0 +1,26 @@
+.roadmapHeader {
+  font-family: 'Rowdies', cursive;
+  color: #41CFD9;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-family: 'Rowdies', cursive;
+  color: #41CFD9;
+  margin: 0;
+}
+
+.roadmapList {
+  font-family: 'Fredoka', cursive;
+  color: #41CFD9;
+  padding-left: 25px;
+  margin-top: 5px;
+}
+
+.roadmap-box {
+  display: block;
+  margin: 0 auto;
+  height: auto;
+  width: 60%;
+  padding: 10px;
+}
