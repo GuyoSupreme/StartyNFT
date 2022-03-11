@@ -1,5 +1,4 @@
 import "./SocialMedia.css";
-import ConnectWalletButton from "./ConnectWalletButton";
 
 function SocialMedia() {
   return (

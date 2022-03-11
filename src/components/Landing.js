@@ -1,5 +1,4 @@
 import "./Landing.css";
-import bannersite from "../utils/bannersite.png";
 import Logo from "./Logo";
 import ContentBox from "./ContentBox";
 
